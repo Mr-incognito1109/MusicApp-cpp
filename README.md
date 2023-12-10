@@ -3,8 +3,8 @@ A Music App Using C++ (Singly Linked list) can be played on your CLI.
 
  # **build using()** 
 
- * **C++ : **Ensure you have a C++ compiler installed (TDM GCC 4.9.2 64-bit)
- * ** SFML Lib : ** Must install 2.4.2
+ * **C++ :** Ensure you have a C++ compiler installed (TDM GCC 4.9.2 64-bit)
+ * **SFML LIB :** Must install 2.4.2
 
  * 1) Download SFML LIB
 ```bash
