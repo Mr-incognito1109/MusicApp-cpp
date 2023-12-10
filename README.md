@@ -17,7 +17,7 @@ https://www.sfml-dev.org/download/sfml/2.4.2/
 https://github.com/Mr-incognito1109/MusicApp-cpp.git
 ```
 
-# 3) Add the required parameters **
+# 3) Add the required parameters 
 
 for Linkers : `-lsfml-audio
               -lsfml-graphics
@@ -32,11 +32,11 @@ for C++ Compiler :` -std=gnu++0x
                    
 ```You can use -std=c++0x (latest) instead of -std=gnu++0x whatever is good for you.```
 
-# 4) Convert the songs you want to play **
+# 4) Convert the songs you want to play
 
 ** Must convert .mp3 => .ogg (Just type  `mp3 to ogg ` on google)**
 
-# 5) Add the songs to /songs dir and run the program **
+# 5) Add the songs to /songs dir and run the program 
 
 * Add your music (.ogg) files in /songs dir.
 * Compile the program and run
