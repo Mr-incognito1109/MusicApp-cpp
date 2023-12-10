@@ -1,5 +1,5 @@
-# MusicApp-C-plusplus
-A Music App Using C++ (Singly Linked list) can be played on your CLI.
+# MusicApp-C-plusplus 💚
+A Music App Using C++ (Singly Linked list) can be played on your CLI. 
 
  # **build using()** 
 
@@ -47,10 +47,10 @@ License
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Mr-incognito1109/MusicApp-cpp/blob/main/LICENSE)
 
-# You can use this project for free without notifying me by forking this project under the following conditions:
+# You can use this project for free without notifying me 💚 by forking this project under the following conditions:
 
-* Add a link to my Repository
-* Star the repository
+* **Add a link of my Repository **
+* **Star the repository 🌟**
 
 
 
