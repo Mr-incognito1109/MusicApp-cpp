@@ -41,7 +41,7 @@ for C++ Compiler :` -std=gnu++0x
 * Add your music (.ogg) files in /songs dir.
 * Compile the program and run
 * log.txt will be created. and the logs will be imported with respect to your song activity.
-* timestapms will be shows in log.txt and cli as well.
+* timestapms will be shown in log.txt and cli as well.
 
 License 
 
