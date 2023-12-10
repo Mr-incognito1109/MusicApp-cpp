@@ -34,7 +34,7 @@ for C++ Compiler :` -std=gnu++0x
 
 # 4) Convert the songs you want to play
 
-** Must convert .mp3 => .ogg (Just type  `mp3 to ogg ` on google)**
+* Must convert .mp3 => .ogg (Just type  `mp3 to ogg ` on google)
 
 # 5) Add the songs to /songs dir and run the program 
 
