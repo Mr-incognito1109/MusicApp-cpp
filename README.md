@@ -49,7 +49,7 @@ License
 
 # You can use this project for free without notifying me 💚 by forking this project under the following conditions:
 
-* **Add a link of my Repository **
+* **Add a link of my Repository**
 * **Star the repository 🌟**
 
 
