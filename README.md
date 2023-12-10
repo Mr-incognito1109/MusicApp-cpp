@@ -45,7 +45,7 @@ for C++ Compiler :` -std=gnu++0x
 
 License 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Mr-incognito1109/MusicApp-cpp/blob/main/LICENSE)
 
 # You can use this project for free without notifying me by forking this project under the following conditions:
 
