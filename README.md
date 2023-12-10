@@ -44,6 +44,12 @@ for C++ Compiler :` -std=gnu++0x
 * timestapms will be shows in log.txt and cli as well.
 
 
+# You can use this project for free without notifying me by forking this project under the following conditions:
+
+* Add a link to my Repository
+* Star the repository
+
+
 
 
 
