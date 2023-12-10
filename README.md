@@ -14,7 +14,7 @@ https://www.sfml-dev.org/download/sfml/2.4.2/
 2) Clone this project or Download the zip and extract it.
 
 ```bash
-otw
+https://github.com/Mr-incognito1109/MusicApp-cpp.git
 ```
 
 ** 3) Add the required parameters **
