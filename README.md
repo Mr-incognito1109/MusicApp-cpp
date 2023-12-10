@@ -43,6 +43,9 @@ for C++ Compiler :` -std=gnu++0x
 * log.txt will be created. and the logs will be imported with respect to your song activity.
 * timestapms will be shows in log.txt and cli as well.
 
+License 
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 # You can use this project for free without notifying me by forking this project under the following conditions:
 
