@@ -15,10 +15,6 @@ https://www.sfml-dev.org/download/sfml/2.4.2/
 
 ```bash
 git clone https://github.com/Mr-incognito1109/MusicApp-cpp.git
-
-or
-
-https://github.com/Mr-incognito1109/MusicApp-cpp.git
 ```
 
 # 3) Add the required parameters 
