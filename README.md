@@ -24,13 +24,13 @@ for Linkers : `-lsfml-audio
               -lsfml-window
               -lsfml-system`
               
-```Only  -lsfml-audio is required but add all of them just in case ```
+Only  -lsfml-audio is required but add all of them just in case
 
 for C++ Compiler :` -std=gnu++0x
                    -std=c++11
                    -std=gnu++11`
                    
-```You can use -std=c++0x (latest) instead of -std=gnu++0x whatever is good for you.```
+You can use -std=c++0x (latest) instead of -std=gnu++0x whatever is good for you.
 
 # 4) Convert the songs you want to play
 
