@@ -14,6 +14,10 @@ https://www.sfml-dev.org/download/sfml/2.4.2/
 # 2) Clone this project or Download the zip and extract it.
 
 ```bash
+git clone https://github.com/Mr-incognito1109/MusicApp-cpp.git
+
+or
+
 https://github.com/Mr-incognito1109/MusicApp-cpp.git
 ```
 
